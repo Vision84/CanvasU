@@ -10,7 +10,6 @@ log/
 
 # production
 /build
-*.zip
 *.crx
 *.pem
 
