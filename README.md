@@ -11,3 +11,7 @@
 9. Copy the contents of `background.js` at the end of `background.bundle.js` and delete `background.js` from `extension/js`.
 
 Extension is completely set up.
+
+CanvasU is built using repurposed code from two open-source projects. View those projects here:
+- Better Canvas: https://github.com/ksucpea/bettercanvas
+- Tasks for Canvas: https://github.com/jtcheng26/canvas-task-extension
